@@ -8,10 +8,10 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wx1c53cf1d5e021317',
+  APP_ID: 'wxa65a0aff227b3607',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: 'd308837d3cfbbc177a956877c0006249',
+  APP_SECRET: '89ad0049ccfae74f35a558ccbbdb93ed',
 
   PROVINCE: '浙江',
   CITY: '金华',
